@@ -1,0 +1,23 @@
+First of all we started building navbar
+Added the navbar and started styling it
+
+we add a line .container in CSS in which we set our margin width 
+and margin inline auto to cet the items in center according to the width 
+the overflow as hidden
+And also make a flex class generally
+
+We also changed the cursor to pointer when we hover ay certain elements in navbar
+
+
+We added some animation as transition to the cards in main div 
+Use <template> to hold some content that will be hidden when the page loads. 
+Use JavaScript to display it:
+
+we have to use our own api key for this project and we have to make an account on 
+newsapi.org
+We have to make a async function to fetch qwery
+We would have to bind the data for this 
+
+We deep clone card div to clone all the div inside it
+
+To LocaleString IS used to convert to our format
